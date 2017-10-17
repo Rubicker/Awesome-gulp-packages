@@ -1,10 +1,10 @@
 # Awesome-gulp-packages
 
-- [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins)
+### [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins)
 
   > Loads gulp plugins from package dependencies and attaches them to an object of your choice.
 
-  再也不需要在开头写一堆 `require` 了 🤘
+      再也不需要在开头写一堆 `require` 了 🤘
   
   用法如下：
   
@@ -30,7 +30,7 @@
   
   ```
   
-  - [gulp-csscomb](https://www.npmjs.com/package/gulp-csscomb)
+ ### [gulp-csscomb](https://www.npmjs.com/package/gulp-csscomb)
   
     > Format CSS coding style
     

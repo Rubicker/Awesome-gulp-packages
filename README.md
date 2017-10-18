@@ -35,3 +35,6 @@
   > Format CSS coding style
     
   可以自定义规则，方便整理输出的 CSS 文件
+
+  > [在线生成 csscomb 配置文件](http://csscomb.com/config)
+  

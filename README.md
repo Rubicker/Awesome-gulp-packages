@@ -29,6 +29,7 @@
   });
   
   ```
+  > `gulp-load-plugins` 命令规则为去掉 `gulp-` 前缀，再使用驼峰命名。，比如我们引用 `gulp-rename` 就可以 `$.rename` 来替代，
   
  ### [gulp-csscomb](https://www.npmjs.com/package/gulp-csscomb)
   
